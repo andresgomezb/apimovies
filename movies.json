@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Star Wars: Episodio IV - Una nueva esperanza",
+    "year": 1977,
+    "id": 1
+  },
+  {
+    "name": "Star Wars: Episodio V - El Imperio contraataca",
+    "year": 1980,
+    "id": 2
+  },
+  {
+    "name": "Star Wars: Episodio VI - El retorno del Jedi",
+    "year": 1983,
+    "id": 3
+  },
+  {
+    "name": "Star Wars: Episodio I - La amenaza fantasma",
+    "year": 1999,
+    "id": 4
+  },
+  {
+    "name": "Star Wars: Episodio II - El ataque de los clones",
+    "year": 2002,
+    "id": 5
+  },
+  {
+    "name": "Star Wars: Episodio III - La venganza de los Sith",
+    "year": 2005,
+    "id": 6
+  },
+  {
+    "name": "Star Wars: Episodio VII - El despertar de la Fuerza",
+    "year": 2015,
+    "id": 7
+  },
+  {
+    "name": "Star Wars: Episodio VIII - Los últimos Jedi",
+    "year": 2017,
+    "id": 8
+  },
+  {
+    "name": "Star Wars: Episodio IX - El ascenso de Skywalker",
+    "year": 2019,
+    "id": 9
+  }
+]
